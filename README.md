@@ -1,6 +1,6 @@
 # Blinkit Sales Dashboard
 
-Welcome to the Blinkit Sales Dashboard project! This repository features a comprehensive Power BI dashboard designed to analyze key sales and outlet performance metrics for Blinkit, providing valuable insights into various aspects of the business.
+Welcome to Blinkit Sales Dashboard project. This repository features a comprehensive Power BI dashboard designed to analyze key sales and outlet performance metrics for Blinkit, providing valuable insights into various aspects of the business.
 
 ## Project Overview
 
